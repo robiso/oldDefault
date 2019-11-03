@@ -1,5 +1,5 @@
 # oldDefault
-Original WonderCMS theme
+Original (2nd gen) WonderCMS theme
 
 ## Preview
 ![Theme preview](/preview.jpg)
