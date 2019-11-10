@@ -18,8 +18,8 @@
     </head>
 
     <body>
+        <?= $Wcms->settings() ?
         <?= $Wcms->alerts() ?>
-        <?= $Wcms->settings() ?>
     
     	<nav class="navbar navbar-default">
     		<div class="container">
