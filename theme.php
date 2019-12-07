@@ -18,7 +18,7 @@
     </head>
 
     <body>
-        <?= $Wcms->settings() ?
+        <?= $Wcms->settings() ?>
         <?= $Wcms->alerts() ?>
     
     	<nav class="navbar navbar-default">
